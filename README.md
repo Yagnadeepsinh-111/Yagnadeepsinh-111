@@ -1,6 +1,6 @@
-# Hi, I'm Yagna 👋
+# Hi, I'm YJ 🥂
 
-### Computer Engineering Student | Java | SQL | Web Development
+### Computer Engineering Student 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240b36,100:c31432&height=180&section=header&text=YAGNA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
@@ -34,56 +34,6 @@ I am a **Computer Engineering student** interested in software development, data
 
 ---
 
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode" />
-</p>
-
-### Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=hibernate,spring" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎟️ Event Pass
-A static event-management website built using **HTML and CSS**.
-
-- Simple and responsive UI
-- Client-side pages
-- Admin-side pages
-- Event image section
-- No JavaScript
-
-**Tech:** `HTML` `CSS`
-
----
-
-### ☕ Java Hibernate CRUD
-A Java project for learning database operations using **Hibernate**.
-
-- Create
-- Read
-- Update
-- Delete
-- Database connectivity
-- Hibernate ORM
-
-**Tech:** `Java` `Hibernate` `SQL`
-
----
-
-### 🗄️ SQL & PL/SQL Projects
-Database practice projects covering SQL queries, views, procedures and PL/SQL concepts.
-
-**Tech:** `SQL` `PL/SQL` `Oracle`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -109,7 +59,7 @@ Database practice projects covering SQL queries, views, procedures and PL/SQL co
 
 ---
 
-## 🎯 2026 Goals
+<!--## 🎯 2026 Goals
 
 - [ ] Improve Java programming
 - [ ] Build more Java + Hibernate projects
@@ -118,15 +68,14 @@ Database practice projects covering SQL queries, views, procedures and PL/SQL co
 - [ ] Build full-stack projects
 - [ ] Contribute to open-source projects
 - [ ] Create a strong developer portfolio
-
----
+-->
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:YOUR_GMAIL@gmail.com">Email</a> •
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+  <a href="https://www.linkedin.com/in/yagnadeepsinh-chudasama-061ba7383">LinkedIn</a> •
+  <a href="mailto:raa.yagnadeepsinh@gmail.com">Email</a> •
+  <a href="https://github.com/Yagnadeepsinh-111">GitHub</a>
 </p>
 
 ---
