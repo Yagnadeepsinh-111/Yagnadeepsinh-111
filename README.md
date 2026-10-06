@@ -96,13 +96,13 @@ Database practice projects covering SQL queries, views, procedures and PL/SQL co
 </p>
 
 ---
--->
+
 ## 📈 Contribution Graph
 
 <div align="center"><img src="https://ghchart.rshah.org/2ea043/Yagnadeepsinh-111" width="100%" alt="GitHub Contribution Graph"/></div>
 
 ---
-<!--
+
 ## 🎯 2026 Goals
 
 - [ ] Improve Java programming
