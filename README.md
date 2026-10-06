@@ -3,7 +3,7 @@
 ### Computer Engineering Student 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240b36,100:c31432&height=180&section=header&text=YAGNA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240b36,100:c31432&height=180&section=header&text=YAGNADEEPSINH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ I am a **Computer Engineering student** interested in software development, data
 
 ---
 
-## 📈 Contribution Graph
+<!--## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
